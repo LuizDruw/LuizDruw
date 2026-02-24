@@ -101,6 +101,21 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 
 ### 📊 Projects
 
+### 🏓 Space Pong Classic
+<div align="center">
+  
+  <img src="https://seu-link-aqui.gif" width="600px" alt="Demonstração do Jogo">
+
+  <br>
+
+  <a href="URL_DO_SEU_JOGO_NO_SCRATCH">
+    <img src="https://img.shields.io/badge/JOGAR_AGORA-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Link para o Jogo">
+  </a>
+
+</div>
+
+---
+
 ### 📊 Statistic
 
 <p>
