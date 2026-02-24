@@ -101,6 +101,8 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 
 ### 📊 Projects
 
+### 📊 Statistic
+
 <p>
   <img 
     align="left" 
