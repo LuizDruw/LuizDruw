@@ -104,7 +104,7 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 ### 🏓 Space Pong Classic
 <div align="center">
   
-  <img src="https://seu-link-aqui.gif" width="600px" alt="Demonstração do Jogo">
+  <img src="https://github.com/user-attachments/assets/84998c9f-1943-4a5e-b6a0-1d0528df13df" width="600px" alt="https://github.com/user-attachments/assets/84998c9f-1943-4a5e-b6a0-1d0528df13df">
 
   <br>
 
