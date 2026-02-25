@@ -108,7 +108,7 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 
   <br>
 
-  <a href="URL_DO_SEU_JOGO_NO_SCRATCH">
+  <a href="[https://scratch.mit.edu/projects/880849111/">
     <img src="https://img.shields.io/badge/JOGAR_AGORA-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Link para o Jogo">
   </a>
 
