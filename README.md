@@ -108,8 +108,8 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 
   <br>
 
-  <a href="[https://scratch.mit.edu/projects/880849111/">
-    <img src="https://img.shields.io/badge/JOGAR_AGORA-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Link para o Jogo">
+  <a href="https://luizdruw.github.io/Space-Pong-Scratch/">
+    <img src="https://img.shields.io/badge/JOGAR_AGORA-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="https://luizdruw.github.io/Space-Pong-Scratch/">
   </a>
 
 </div>
