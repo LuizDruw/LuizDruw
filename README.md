@@ -99,7 +99,7 @@ My name is Luiz Paulo, I'm 23 years old. I've taken computer assembly and mainte
 <br/>
 <br/>
 
-### 📊 Projects
+###  Projects
 
 ### 🏓 Space Pong Classic
 <div align="center">
